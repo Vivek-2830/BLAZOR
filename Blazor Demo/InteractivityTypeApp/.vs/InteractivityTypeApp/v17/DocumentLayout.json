@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Blazor Demo\\InteractivityTypeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{124668C8-8C25-4325-9F3D-292C0E67E49D}|Auto\\Auto\\Auto.csproj|c:\\users\\admin\\documents\\blazor demo\\interactivitytypeapp\\auto\\auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{124668C8-8C25-4325-9F3D-292C0E67E49D}|Auto\\Auto\\Auto.csproj|solutionrelative:auto\\auto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Demo\\InteractivityTypeApp\\Auto\\Auto\\Program.cs",
+              "RelativeDocumentMoniker": "Auto\\Auto\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Demo\\InteractivityTypeApp\\Auto\\Auto\\Program.cs",
+              "RelativeToolTip": "Auto\\Auto\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T10:09:36.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
