@@ -1,0 +1,31 @@
+﻿@page "/"
+@inject IDemoDependency demo
+@inject IConfiguration config
+
+<PageTitle>Home</PageTitle>
+
+<HeadContent>
+    <meta name="description" content="This is the description for the home page">
+</HeadContent>
+
+<h1>Hello, everyone!</h1>
+<h2>@demo.GiveRandomNumber()</h2>
+<h2>@config.GetConnectionString("Default")</h2>
+<h3>Workday : @(config.GetValue<string>("WorkDaysPerWeek"))</h3>
+<h3>Workday : @(config.GetValue<string>("Company:Name"))</h3>
+
+Welcome to your new app.
+
+@* @for(var i = 0; i < 5; i++)
+{
+    <h2>The Counter Number @i</h2>
+    <Counter />
+}
+
+@for (var i = 0; i < 6; i++)
+    {
+        <h2>The Component Demo @i</h2>
+        <Demo />
+    } *@
+
+

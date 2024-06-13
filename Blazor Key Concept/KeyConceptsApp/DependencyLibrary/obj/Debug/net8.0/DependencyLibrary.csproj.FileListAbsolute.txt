@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\bin\Debug\net8.0\DependencyLibrary.deps.json
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\bin\Debug\net8.0\DependencyLibrary.dll
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\bin\Debug\net8.0\DependencyLibrary.pdb
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.AssemblyInfo.cs
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.dll
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\refint\DependencyLibrary.dll
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\DependencyLibrary.pdb
+C:\Users\admin\Documents\Blazor Key Concept\KeyConceptsApp\DependencyLibrary\obj\Debug\net8.0\ref\DependencyLibrary.dll

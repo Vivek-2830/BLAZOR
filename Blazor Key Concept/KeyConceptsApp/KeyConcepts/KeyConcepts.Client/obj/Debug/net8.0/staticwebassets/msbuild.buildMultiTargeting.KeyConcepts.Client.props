@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KeyConcepts.Client.props" />
+</Project>

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KeyConcepts.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KeyConcepts.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KeyConcepts.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KeyConcepts.props",
+      "PackagePath": "build\\KeyConcepts.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KeyConcepts.props",
+      "PackagePath": "buildMultiTargeting\\KeyConcepts.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KeyConcepts.props",
+      "PackagePath": "buildTransitive\\KeyConcepts.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
