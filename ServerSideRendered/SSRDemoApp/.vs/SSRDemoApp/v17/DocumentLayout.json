@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\ServerSideRendered\\SSRDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C242D815-05F8-48A5-8786-BAFA462286B6}|SSRDemo\\SSRDemo.csproj|c:\\users\\admin\\documents\\serversiderendered\\ssrdemoapp\\ssrdemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C242D815-05F8-48A5-8786-BAFA462286B6}|SSRDemo\\SSRDemo.csproj|solutionrelative:ssrdemo\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\ServerSideRendered\\SSRDemoApp\\SSRDemo\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "SSRDemo\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\ServerSideRendered\\SSRDemoApp\\SSRDemo\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "SSRDemo\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T07:49:18.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

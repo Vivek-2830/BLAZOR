@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Documents\\ServerSideRendered\\SSRDemoApp\\SSRDemo\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SSRDemo.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SSRDemo.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\ServerSideRendered\\SSRDemoApp\\SSRDemo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\ServerSideRendered\\SSRDemoApp\\SSRDemo\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SSRDemo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SSRDemo.props",
+      "PackagePath": "build\\SSRDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SSRDemo.props",
+      "PackagePath": "buildMultiTargeting\\SSRDemo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SSRDemo.props",
+      "PackagePath": "buildTransitive\\SSRDemo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
