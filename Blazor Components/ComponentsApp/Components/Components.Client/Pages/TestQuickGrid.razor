@@ -1,0 +1,25 @@
+﻿@page "/TestQuickGrid"
+@rendermode InteractiveAuto
+
+<h3>QuickGrid</h3>
+
+<QuickGrid Items="@people">
+    <PropertyColumn Property="@(p => p.Id)" Sortable="true" />
+    <PropertyColumn Property="@(p => p.FirstName)" Sortable="true" />
+    <PropertyColumn Property="@(p => p.LastName)" Sortable="true" />
+    <PropertyColumn Property="@(p => p.StartDate)" Format="yyyy-MM-dd" Sortable="true" />
+
+</QuickGrid>
+
+@code {
+    private record PersonRecord(int Id, string FirstName, string LastName, DateOnly StartDate);
+
+    private IQueryable<PersonRecord> people = new[]
+    {
+        new PersonRecord(5,"Sue","Corey",new DateOnly(2020,3,1)),
+        new PersonRecord(2,"Tim","Storm",new DateOnly(2021,5,10)),
+        new PersonRecord(1,"Jane","Smit",new DateOnly(2019,8,1)),
+        new PersonRecord(3,"Bob","Smith",new DateOnly(2023,7,3)),
+        new PersonRecord(4,"Jim","Arnold",new DateOnly(2028,3,8))
+    }.AsQueryable();
+}

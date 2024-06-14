@@ -1,0 +1,66 @@
+﻿@page "/counter"
+@rendermode InteractiveAuto
+@* @inject NavigationManager Navigation *@
+@* @inject ILogger<Counter> log *@
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+@* <button class="btn btn-primary" @onclick="RefreshPage">Refresh</button> *@
+@* <button class="btn btn-primary" @onclick="GoToBetterCounter">Go To Better Counter</button>*@
+
+@code {
+
+    [Parameter]
+    public EventCallback<int> OnCounterChange { get; set; }
+
+    private int currentCount = 0;
+
+    private async Task   IncrementCount()
+    {
+        currentCount++;
+        await OnCounterChange.InvokeAsync(currentCount);
+        // await Task.Delay(1000);
+        // currentCount++;
+        // StateHasChanged();
+
+        // await Task.Delay(1000);
+        // currentCount++;
+        // StateHasChanged();
+
+        // await Task.Delay(1000);
+        // currentCount++;
+
+    }
+
+    // private void RefreshPage()
+    // {
+    //     Navigation.Refresh(true);
+    // }
+
+    // private void GoToBetterCounter()
+    // {
+    //     // Navigation.NavigateTo("BetterCounter/Vivek?val=10");
+    //     //  Navigation.NavigateTo(Navigation.GetUriWithQueryParameter("val", 10));
+    //     Navigation.NavigateTo("Start#specialLine");
+    // }
+
+    // protected override void OnParametersSet()
+    // {
+    //     log.LogInformation("This is from OnParametersSet");
+    // }
+
+    // protected override void OnInitialized()
+    // {
+    //     log.LogInformation("This is from OnInitialized");
+    // }
+
+    // protected override void OnAfterRender(bool firstRender)
+    // {
+    //     log.LogInformation($"This is from OnAfterRender (First Render : {firstRender})");
+    // }
+}

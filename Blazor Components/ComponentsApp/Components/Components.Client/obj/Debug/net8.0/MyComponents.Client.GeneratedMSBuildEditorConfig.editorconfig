@@ -1,0 +1,47 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MyComponents.Client
+build_property.RootNamespace = MyComponents.Client
+build_property.ProjectDir = C:\Users\admin\Documents\Blazor Components\ComponentsApp\Components\Components.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\admin\Documents\Blazor Components\ComponentsApp\Components\Components.Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/admin/Documents/Blazor Components/ComponentsApp/Components/Components.Client/Pages/BetterCounter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmV0dGVyQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Documents/Blazor Components/ComponentsApp/Components/Components.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Documents/Blazor Components/ComponentsApp/Components/Components.Client/Pages/Demo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVtby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Documents/Blazor Components/ComponentsApp/Components/Components.Client/Pages/Start.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3RhcnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Documents/Blazor Components/ComponentsApp/Components/Components.Client/Pages/TestQuickGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdFF1aWNrR3JpZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/admin/Documents/Blazor Components/ComponentsApp/Components/Components.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,76 @@
+﻿@* @page "/page"
+@page "/pages/start" *@
+
+@rendermode InteractiveAuto
+@attribute [Route(nameof(Start))]
+@inject NavigationManager Navigation
+
+<h3>Start</h3>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p id="specialLine">This is our special line of text and not a  duplication. </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+<p>This is a test of our duplication </p>
+
+<button class="btn btn-primary" @onclick="GoToCounter">Go To Counter</button>
+
+@code {
+    private void GoToCounter()
+    {
+        Navigation.NavigateTo("Counter");
+    }
+}

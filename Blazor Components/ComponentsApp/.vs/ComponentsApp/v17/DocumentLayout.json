@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E736E8F0-7430-40A4-A627-653B230C2582}|Components\\Components\\MyComponents.csproj|c:\\users\\admin\\documents\\blazor components\\componentsapp\\components\\components\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E736E8F0-7430-40A4-A627-653B230C2582}|Components\\Components\\MyComponents.csproj|solutionrelative:components\\components\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|c:\\users\\admin\\documents\\blazor components\\componentsapp\\components\\components.client\\pages\\testquickgrid.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|solutionrelative:components\\components.client\\pages\\testquickgrid.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|c:\\users\\admin\\documents\\blazor components\\componentsapp\\components\\components.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|solutionrelative:components\\components.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|c:\\users\\admin\\documents\\blazor components\\componentsapp\\components\\components.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|solutionrelative:components\\components.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E736E8F0-7430-40A4-A627-653B230C2582}|Components\\Components\\MyComponents.csproj|c:\\users\\admin\\documents\\blazor components\\componentsapp\\components\\components\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E736E8F0-7430-40A4-A627-653B230C2582}|Components\\Components\\MyComponents.csproj|solutionrelative:components\\components\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|c:\\users\\admin\\documents\\blazor components\\componentsapp\\components\\components.client\\pages\\bettercounter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{023F6313-4CA9-48E0-AE5A-82A7F5460C36}|Components\\Components.Client\\MyComponents.Client.csproj|solutionrelative:components\\components.client\\pages\\bettercounter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Components\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Components\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T10:13:18.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "Components\\Components.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\_Imports.razor",
+              "RelativeToolTip": "Components\\Components.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T10:04:32.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestQuickGrid.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\Pages\\TestQuickGrid.razor",
+              "RelativeDocumentMoniker": "Components\\Components.Client\\Pages\\TestQuickGrid.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\Pages\\TestQuickGrid.razor",
+              "RelativeToolTip": "Components\\Components.Client\\Pages\\TestQuickGrid.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T09:50:18.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Components\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Components\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T09:11:55.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Components.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Components.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T07:09:27.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BetterCounter.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\Pages\\BetterCounter.razor",
+              "RelativeDocumentMoniker": "Components\\Components.Client\\Pages\\BetterCounter.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Blazor Components\\ComponentsApp\\Components\\Components.Client\\Pages\\BetterCounter.razor",
+              "RelativeToolTip": "Components\\Components.Client\\Pages\\BetterCounter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T12:56:58.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

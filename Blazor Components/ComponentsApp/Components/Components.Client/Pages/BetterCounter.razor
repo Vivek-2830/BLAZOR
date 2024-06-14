@@ -1,0 +1,62 @@
+﻿@* @page "/BetterCounter/{Title?}" *@
+@* @page "/BetterCounter/{StartingValue:int}"*@
+@* @page "/BetterCounter/all/{*PageRoute}"*@
+@page "/BetterCounter"
+@rendermode InteractiveAuto
+
+<PageTitle>Better Counter</PageTitle>
+
+<h1>Better Counter</h1>
+<h2>The current count is @counterValue</h2>
+
+@if (counterValue < 5)
+{
+    <Counter OnCounterChange="UpdateCounter" />
+}
+@code {
+    private int counterValue;
+
+    private void UpdateCounter(int val)
+    {
+        counterValue = val;
+    }
+}
+
+@code {
+
+}
+
+@* <h1>@Title</h1> *@
+@* <h1>@PageRoute</h1>*@
+@* <p role="status" style="font-size: 26px;">Current count: @StartingValue</p>*@
+  
+@* <p role="status" style="font-size: 26px;">Current count: @StartingValue</p> 
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    [Parameter]
+      //  [SupplyParameterFromQuery]
+    public string? Title { get; set; }
+
+   // [Parameter]
+   // public string? PageRoute { get; set; }
+
+   // [Parameter]
+    [SupplyParameterFromQuery(Name = "val")]
+    public int StartingValue { get; set; }
+
+    //private int currentCount = 0;
+
+    protected override void OnParametersSet()
+    {
+        Title = Title ?? "Our Better Counter";
+    }
+
+    private void IncrementCount()
+    {
+        StartingValue++;
+        //currentCount = 0;
+    }
+
+} *@
