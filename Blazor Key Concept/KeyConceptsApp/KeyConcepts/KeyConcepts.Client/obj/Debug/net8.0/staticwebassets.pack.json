@@ -1,19 +1,27 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\Pages\\Counter.razor.js",
+      "PackagePath": "staticwebassets\\Pages\\Counter.razor.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\obj\\Debug\\net8.0\\compressed\\5951wvpkur.gz",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\obj\\Debug\\net8.0\\compressed\\5951wvpkur.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\wwwroot\\appsettings.Development.json",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KeyConcepts.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KeyConcepts.Client.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\wwwroot\\appsettings.json",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\wwwroot\\appsettings.json",
       "PackagePath": "staticwebassets\\appsettings.json"
     },
     {

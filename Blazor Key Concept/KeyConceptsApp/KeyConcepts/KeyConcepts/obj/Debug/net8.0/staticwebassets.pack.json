@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KeyConcepts.bundle.scp.css",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KeyConcepts.bundle.scp.css",
       "PackagePath": "staticwebassets\\KeyConcepts.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\app.css",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeyConcepts.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e322e89cc40d46a092d8f7c306ae9c44be47b277")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeyConcepts.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeyConcepts.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

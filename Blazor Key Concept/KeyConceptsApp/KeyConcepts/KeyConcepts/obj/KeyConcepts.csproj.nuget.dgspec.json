@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj": {}
+    "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj",
         "projectName": "DependencyLibrary",
-        "projectPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj",
         "projectName": "KeyConcepts.Client",
-        "projectPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,8 +90,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj"
+              "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj"
               }
             }
           }
@@ -159,14 +159,14 @@
         }
       }
     },
-    "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj": {
+    "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj",
         "projectName": "KeyConcepts",
-        "projectPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj",
+        "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\KeyConcepts.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -184,11 +184,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj"
+              "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\DependencyLibrary\\DependencyLibrary.csproj"
               },
-              "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj": {
-                "projectPath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj"
+              "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj": {
+                "projectPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj"
               }
             }
           }

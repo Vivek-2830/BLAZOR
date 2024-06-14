@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UJ3FFb+tEYE=",
+  "dgSpecHash": "FBaWXvhqlU8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\Blazor Key Concept\\KeyConceptsApp\\KeyConcepts\\KeyConcepts.Client\\KeyConcepts.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.5\\microsoft.aspnetcore.authorization.8.0.5.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.5\\microsoft.aspnetcore.components.8.0.5.nupkg.sha512",

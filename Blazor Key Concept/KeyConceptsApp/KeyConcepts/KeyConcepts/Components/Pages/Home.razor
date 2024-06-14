@@ -12,9 +12,11 @@
 <h2>@demo.GiveRandomNumber()</h2>
 <h2>@config.GetConnectionString("Default")</h2>
 <h3>Workday : @(config.GetValue<string>("WorkDaysPerWeek"))</h3>
-<h3>Workday : @(config.GetValue<string>("Company:Name"))</h3>
+<h3>@(config.GetValue<string>("Company:Name"))</h3>
 
 Welcome to your new app.
+
+<Counter />
 
 @* @for(var i = 0; i < 5; i++)
 {

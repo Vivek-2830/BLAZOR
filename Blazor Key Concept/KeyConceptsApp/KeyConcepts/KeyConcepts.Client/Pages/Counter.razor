@@ -1,9 +1,10 @@
 ﻿@page "/counter"
 @rendermode InteractiveAuto
-
+@inject IJSRuntime JS
 <PageTitle>Counter</PageTitle>
 
 <h1>Counter</h1>
+<h1>@subMessage</h1>
 
 <p role="status">Current count: @currentCount</p>
 
@@ -11,9 +12,18 @@
 
 @code {
     private int currentCount = 0;
+    private string subMessage = "";
+    private IJSObjectReference? jsModule;
 
-    private void IncrementCount()
+    protected async override Task OnAfterRenderAsync(bool firstRender)
+    {
+        jsModule = await JS.InvokeAsync<IJSObjectReference>("import", "./Pages/Counter.razor.js");
+    }
+
+    private async Task IncrementCount()
     {
         currentCount+=5;
+        await jsModule.InvokeVoidAsync("displayCount", currentCount);
+        subMessage = await jsModule.InvokeAsync<string>("createMessage", currentCount);
     }
 }

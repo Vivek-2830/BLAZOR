@@ -1,15 +1,13 @@
 ﻿@page "/demo"
 @rendermode InteractiveAuto
 @inject IDemoDependency demo
-@inject IConfiguration config
 
 <h3>Demo</h3>
 <p>
     @demo.GiveRandomNumber()
 </p>
 
-<h2>@config.GetConnectionString("Default")</h2>
+<h2>@GetConnectionInfo()</h2>
+<h2>@GetInfo()</h2>
 
-@code {
-
-}
+ 
