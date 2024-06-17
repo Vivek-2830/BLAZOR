@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLLibrary\\wwwroot\\img\\Profile.png",
+      "PackagePath": "staticwebassets\\img\\Profile.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RCLLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RCLLibrary.props",
+      "PackagePath": "build\\RCLLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RCLLibrary.props",
+      "PackagePath": "buildMultiTargeting\\RCLLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RCLLibrary.props",
+      "PackagePath": "buildTransitive\\RCLLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

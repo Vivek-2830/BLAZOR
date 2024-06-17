@@ -1,0 +1,35 @@
+﻿@page "/Countdown"
+@rendermode InteractiveAuto
+
+<div>
+    <img src="_content\RCLLibrary\img\profile.png" />
+</div>
+
+<h2>Countdown Timer</h2>
+
+<p style="font-size: 26px;">
+    Countdown : @countdownValue
+</p>
+
+@if(isCountdownRunning == false)
+{
+    <button class="btn btn-primary" @onclick="StartCountdown">Start Countdown</button>
+}
+
+
+@code {
+    private int countdownValue = 10;
+    private bool isCountdownRunning = false;
+
+    private async Task StartCountdown()
+    {
+        isCountdownRunning = true;
+        while (countdownValue > 0)
+        {
+            countdownValue--;
+            StateHasChanged();
+            await Task.Delay(1000);
+        }
+        isCountdownRunning = false;
+    }
+}

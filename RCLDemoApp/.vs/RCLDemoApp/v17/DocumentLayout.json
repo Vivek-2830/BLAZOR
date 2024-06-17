@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\RCLDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40D044D-1678-4897-8AD5-04B18FFA5B68}|RCLLibrary\\RCLLibrary.csproj|c:\\users\\admin\\documents\\rcldemoapp\\rcllibrary\\components\\countdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C40D044D-1678-4897-8AD5-04B18FFA5B68}|RCLLibrary\\RCLLibrary.csproj|solutionrelative:rcllibrary\\components\\countdown.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Countdown.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLLibrary\\Components\\Countdown.razor",
+              "RelativeDocumentMoniker": "RCLLibrary\\Components\\Countdown.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLLibrary\\Components\\Countdown.razor",
+              "RelativeToolTip": "RCLLibrary\\Components\\Countdown.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T11:08:46.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

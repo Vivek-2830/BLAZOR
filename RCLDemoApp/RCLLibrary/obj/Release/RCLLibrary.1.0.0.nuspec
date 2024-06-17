@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RCLLibrary</id>
+    <version>1.0.0</version>
+    <authors>RCLLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="8.0.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\admin\Documents\RCLDemoApp\RCLLibrary\bin\Release\net8.0\RCLLibrary.dll" target="lib\net8.0\RCLLibrary.dll" />
+    <file src="C:\Users\admin\Documents\RCLDemoApp\RCLLibrary\wwwroot\img\Profile.png" target="staticwebassets\img\Profile.png" />
+    <file src="C:\Users\admin\Documents\RCLDemoApp\RCLLibrary\obj\Release\net8.0\staticwebassets\msbuild.RCLLibrary.Microsoft.AspNetCore.StaticWebAssets.props" target="build\Microsoft.AspNetCore.StaticWebAssets.props" />
+    <file src="C:\Users\admin\Documents\RCLDemoApp\RCLLibrary\obj\Release\net8.0\staticwebassets\msbuild.build.RCLLibrary.props" target="build\RCLLibrary.props" />
+    <file src="C:\Users\admin\Documents\RCLDemoApp\RCLLibrary\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.RCLLibrary.props" target="buildMultiTargeting\RCLLibrary.props" />
+    <file src="C:\Users\admin\Documents\RCLDemoApp\RCLLibrary\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.RCLLibrary.props" target="buildTransitive\RCLLibrary.props" />
+  </files>
+</package>

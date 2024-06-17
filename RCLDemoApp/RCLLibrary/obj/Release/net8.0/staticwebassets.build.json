@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "QBdPBACoQ9bb+hV/q7JAJ6XT5ERlATRrhaB45FBxWdo=",
+  "Source": "RCLLibrary",
+  "BasePath": "_content/RCLLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RCLLibrary\\wwwroot",
+      "Source": "RCLLibrary",
+      "ContentRoot": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLLibrary\\wwwroot\\",
+      "BasePath": "_content/RCLLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLLibrary\\wwwroot\\img\\Profile.png",
+      "SourceId": "RCLLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLLibrary\\wwwroot\\",
+      "BasePath": "_content/RCLLibrary",
+      "RelativePath": "img/Profile.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Profile.png"
+    }
+  ]
+}

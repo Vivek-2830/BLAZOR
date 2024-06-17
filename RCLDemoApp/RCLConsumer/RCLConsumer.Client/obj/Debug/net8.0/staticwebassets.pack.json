@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLConsumer\\RCLConsumer.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLConsumer\\RCLConsumer.Client\\obj\\Debug\\net8.0\\compressed\\5951wvpkur.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLConsumer\\RCLConsumer.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\admin\\Documents\\RCLDemoApp\\RCLConsumer\\RCLConsumer.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RCLConsumer.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RCLConsumer.Client.props",
+      "PackagePath": "build\\RCLConsumer.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RCLConsumer.Client.props",
+      "PackagePath": "buildMultiTargeting\\RCLConsumer.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RCLConsumer.Client.props",
+      "PackagePath": "buildTransitive\\RCLConsumer.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
