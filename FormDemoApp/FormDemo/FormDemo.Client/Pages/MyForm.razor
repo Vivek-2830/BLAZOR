@@ -1,0 +1,111 @@
+﻿ @rendermode InteractiveAuto 
+
+ @inject ILogger<MyForm> log
+
+<h3>My Form</h3>
+
+<EditForm Enhance Model="Person" method="post" FormName="personForm" OnValidSubmit="SubmitForm">
+    <DataAnnotationsValidator />
+    <div class="mb-3">
+        <label>First Name</label>
+        <InputText @bind-Value="Person.FirstName" DisplayName="First Name" />
+        <ValidationMessage For="@(() => Person.FirstName)" />
+    </div>
+    <div class="mb-3">
+        <label>Last Name</label>
+        <InputText @bind-Value="Person.LastName" />
+        <ValidationMessage For="@(() => Person.LastName)" />
+    </div> 
+
+    <InputFile OnChange="LoadFile" multiple /> <br />
+
+    @* <div class="mb-3">
+        <label>Life Story</label>
+        <InputTextArea @bind-Value="Person.LifeStory" rows="4"/>
+    </div>
+    <div class="mb-3">
+        <label>Is Enrolled</label>
+        <InputCheckbox @bind-Value="Person.IsEnrolled" />
+    </div>
+    <div class="mb-3">
+        <label>Date of Birth</label>
+        <InputDate @bind-Value="Person.DateOfBirth" />
+    </div>
+    <div class="mb-3">
+        <label>My Number</label>
+        <InputNumber @bind-Value="Person.MyNumber" />
+        <ValidationMessage For="@(() => Person.MyNumber)" />
+    </div>
+    <div class="mb-3">
+        <label>Department</label>
+        <br />
+        <InputSelect @bind-Value="Person.Department">
+            @foreach(var dept in departments)
+                {
+                    <option Value="@dept"> @dept</option>
+                }
+            </InputSelect>
+        <ValidationMessage For="@(() => Person.Department)" />
+    </div>
+    <div class="mb-3">
+        <label>Type of Employment</label>
+        <br />
+        <InputSelect @bind-Value="Person.TypeOfEmployment">
+            @foreach (var toe in Enum.GetValues<EmployeeType>())
+            {
+                <option Value="@toe">@toe.ToString()</option> 
+            }
+        </InputSelect>
+        <ValidationMessage For="@(() => Person.TypeOfEmployment)" />
+    </div> *@
+
+
+    <button class="btn btn-primary my-3" type="submit">Add Person</button>
+</EditForm>
+
+@* <ul>
+    @foreach (var p in people)
+    {
+        <li>@p.FirstName @p.LastName</li>
+    }
+</ul> *@
+
+@* <ul>
+    <li>Department: @Person.Department</li>
+    <li>Type Of Employment: @Person.TypeOfEmployment</li>
+</ul> *@
+
+<ul>
+    @foreach(var f in files)
+    {
+        <li>@f.Name (@f.Size)</li>
+    }
+</ul>
+
+@code {
+    [SupplyParameterFromForm]
+    private PersonModel Person { get; set; } = new();
+
+    private List<PersonModel> people = new();
+    private List<IBrowserFile> files = new();
+    private int maxFiles = 5;
+
+    // private List<string> departments = new() { "HR", "IT", "Accounting", "Sales" };
+
+    private void SubmitForm()
+    {
+        log.LogInformation($"{Person.FirstName} {Person.LastName}");
+        people.Add(Person);
+        Person = new();
+    }
+
+    private void LoadFile(InputFileChangeEventArgs e)
+    {
+        files.Clear();
+
+        foreach (var file in e.GetMultipleFiles(maxFiles))
+        {
+            files.Add(file);
+        }
+    }
+}
