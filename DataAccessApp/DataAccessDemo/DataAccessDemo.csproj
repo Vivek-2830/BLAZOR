@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Components\SqlData\Delete.razor" />
+    <Content Remove="Components\SqlData\Read.razor" />
+    <Content Remove="Components\SqlData\Update.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLibrary\DataAccessLibrary.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\SqlData\Read.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Components\SqlData\Delete.razor" />
+    <_ContentIncludedByDefault Remove="Components\SqlData\Read.razor" />
+    <_ContentIncludedByDefault Remove="Components\SqlData\Update.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Components\SqlData\Delete.razor" />
+    <None Include="Components\SqlData\Read.razor" />
+    <None Include="Components\SqlData\Update.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\SqlData\Update.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Components\SqlData\Delete.razor" />
+  </ItemGroup>
+
+</Project>

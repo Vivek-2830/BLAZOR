@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\DataAccessApp\DataAccessDB\bin\Debug\DataAccessDB.dacpac
+C:\Users\admin\Documents\DataAccessApp\DataAccessDB\bin\Debug\DataAccessDB.dll
+C:\Users\admin\Documents\DataAccessApp\DataAccessDB\bin\Debug\DataAccessDB.pdb
+C:\Users\admin\Documents\DataAccessApp\DataAccessDB\obj\Debug\DataAccessDB.sqlproj.AssemblyReference.cache
+C:\Users\admin\Documents\DataAccessApp\DataAccessDB\obj\Debug\DataAccessDB.dll
+C:\Users\admin\Documents\DataAccessApp\DataAccessDB\obj\Debug\DataAccessDB.pdb
