@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c5t05g4+VYM=",
+  "dgSpecHash": "TmRR/CMve3o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\DataAccessApp\\DataAccessLibrary\\DataAccessLibrary.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\DataAccessApp\\DataAccessLibrary\\DataAccessLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

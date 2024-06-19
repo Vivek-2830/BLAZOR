@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\DataAccessApp\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\DataAccessApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5A796AE-2E6E-49B0-9191-9ED6875087E3}|DataAccessDemo\\DataAccessDemo.csproj|c:\\users\\admin\\documents\\dataaccessapp\\dataaccessdemo\\components\\sqldata\\virtuallist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A5A796AE-2E6E-49B0-9191-9ED6875087E3}|DataAccessDemo\\DataAccessDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\dataaccessapp\\dataaccessdemo\\components\\sqldata\\virtuallist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5A796AE-2E6E-49B0-9191-9ED6875087E3}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\components\\sqldata\\virtuallist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5A796AE-2E6E-49B0-9191-9ED6875087E3}|DataAccessDemo\\DataAccessDemo.csproj|c:\\users\\admin\\documents\\dataaccessapp\\dataaccessdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A5A796AE-2E6E-49B0-9191-9ED6875087E3}|DataAccessDemo\\DataAccessDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\dataaccessapp\\dataaccessdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5A796AE-2E6E-49B0-9191-9ED6875087E3}|DataAccessDemo\\DataAccessDemo.csproj|solutionrelative:dataaccessdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\DataAccessApp\\DataAccessDemo\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\DataAccessApp\\DataAccessDemo\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "DataAccessDemo\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\admin\\Documents\\DataAccessApp\\DataAccessDemo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\DataAccessApp\\DataAccessDemo\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "DataAccessDemo\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-18T13:39:31.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-18T13:39:31.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "VirtualList.razor",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\DataAccessApp\\DataAccessDemo\\Components\\SqlData\\VirtualList.razor",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\DataAccessApp\\DataAccessDemo\\Components\\SqlData\\VirtualList.razor",
               "RelativeDocumentMoniker": "DataAccessDemo\\Components\\SqlData\\VirtualList.razor",
-              "ToolTip": "C:\\Users\\admin\\Documents\\DataAccessApp\\DataAccessDemo\\Components\\SqlData\\VirtualList.razor",
+              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\DataAccessApp\\DataAccessDemo\\Components\\SqlData\\VirtualList.razor",
               "RelativeToolTip": "DataAccessDemo\\Components\\SqlData\\VirtualList.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACEAAABSAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-18T13:31:33.06Z",
               "EditorCaption": ""

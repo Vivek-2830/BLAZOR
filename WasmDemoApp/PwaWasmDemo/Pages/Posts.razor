@@ -1,0 +1,31 @@
+﻿@page "/posts"
+@inject HttpClient Http
+
+<PageTitle>Posts</PageTitle>
+
+<h3>Posts</h3>
+
+@if (posts is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+   <Virtualize Items="posts" Context="p" >
+       <div>
+           <h2>@p.title</h2>
+           <p>
+               @p.body  
+           </p>
+       </div>
+   </Virtualize>
+}
+
+@code {
+    private PostModel[]? posts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        posts = await Http.GetFromJsonAsync<PostModel[]>("posts");
+    }
+}
