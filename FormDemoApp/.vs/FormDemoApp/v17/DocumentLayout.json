@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\FormDemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\formdemoapp\\formdemo\\formdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|solutionrelative:formdemo\\formdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\formdemoapp\\formdemo\\formdemo\\models\\samplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|solutionrelative:formdemo\\formdemo\\models\\samplemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\formdemoapp\\formdemo\\formdemo\\components\\pages\\sample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|solutionrelative:formdemo\\formdemo\\components\\pages\\sample.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\formdemoapp\\formdemo\\formdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|solutionrelative:formdemo\\formdemo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|c:\\users\\admin\\documents\\github\\blazor\\formdemoapp\\formdemo\\formdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C81D7F5-FF67-42C7-814F-572A47C73350}|FormDemo\\FormDemo\\FormDemo.csproj|solutionrelative:formdemo\\formdemo\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\FormDemoApp\\FormDemo\\FormDemo\\Components\\_Imports.razor",
               "RelativeDocumentMoniker": "FormDemo\\FormDemo\\Components\\_Imports.razor",
@@ -47,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\FormDemoApp\\FormDemo\\FormDemo\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "FormDemo\\FormDemo\\Components\\Pages\\Home.razor",
@@ -55,23 +51,12 @@
               "RelativeToolTip": "FormDemo\\FormDemo\\Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T12:25:18.646Z"
+              "WhenOpened": "2024-06-17T12:25:18.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sample.razor",
-              "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\FormDemoApp\\FormDemo\\FormDemo\\Components\\Pages\\Sample.razor",
-              "RelativeDocumentMoniker": "FormDemo\\FormDemo\\Components\\Pages\\Sample.razor",
-              "ToolTip": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\FormDemoApp\\FormDemo\\FormDemo\\Components\\Pages\\Sample.razor",
-              "RelativeToolTip": "FormDemo\\FormDemo\\Components\\Pages\\Sample.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T12:09:59.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SampleModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\GitHub\\BLAZOR\\FormDemoApp\\FormDemo\\FormDemo\\Models\\SampleModel.cs",
               "RelativeDocumentMoniker": "FormDemo\\FormDemo\\Models\\SampleModel.cs",
@@ -79,7 +64,8 @@
               "RelativeToolTip": "FormDemo\\FormDemo\\Models\\SampleModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T12:07:09.806Z"
+              "WhenOpened": "2024-06-17T12:07:09.806Z",
+              "EditorCaption": ""
             }
           ]
         }
